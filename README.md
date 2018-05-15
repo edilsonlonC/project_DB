@@ -7,4 +7,4 @@ Edilson Londoño @edilsonlonC
 Sebastian Velez @SebasttianVelez
 
 
-git clone https://github.com/edilsonlonC/project_DB
+$ git clone https://github.com/edilsonlonC/project_DB
